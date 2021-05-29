@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+}
+#home {
+    background-image: url(red-rose.jpg);
+    height: 800px;
+    width: auto;
+        
+}
+.menu {
+    text-align: center;
+    list-style: none;
+    position: sticky;
+    top: 0px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    padding-right: 500px;
+}
+.list {
+    float: left;
+    font-family: fantasy;
+    font-size: 20px;
+    padding-right: 12px;
+    padding-left: 12px;
+    
+}
+a {
+    color: black;
+}
+#home h1{
+    font-family: cursive;
+    font-size: 50px;
+    color: white;
+    padding-top: 500px;
+}
+#grid img {
+    width: 23%;
+    height: 200px;
+}
+#grid {
+    height: 720px;
+}
+list {
+    color: black;
+}
+html {
+    scroll-behavior: smooth;
+}
